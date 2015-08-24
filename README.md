@@ -25,15 +25,15 @@ mit der Paketverwaltung [Anaconda](http://docs.continuum.io/anaconda/install.htm
 Weitere Unterlagen
 ==================
 
-- [Skript Wissenschaftliches Rechnen mit Python](https://github.com/mgje/Python-Mathematik-Beispiele/Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
+- [Skript Wissenschaftliches Rechnen mit Python](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Skript_Wissenschaftliches_Rechnen_mit_Python_WB_Wetzikon.pdf?raw=true)
 (Einstieg, Ausdrücke, Zuweisungen, Schleifen, Listen
 Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
-- [Python im Schuleinsatz (2012), Folien (PDF)](https://github.com/mgje/Python-Mathematik-Beispiele/Python_im_Schuleinsatz.pdf?raw=true)
-- [Artikel zur Populationsdynamik](https://github.com/mgje/Python-Mathematik-Beispiele/Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf)
-- [Beispiel zum Rundreiseproblem, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
-- [Numerische Optimierung, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
-- [Numerische Lösungen von DGL, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/Python-Beispiele/numDGL)  
+- [Python im Schuleinsatz (2012), Folien (PDF)](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python_im_Schuleinsatz.pdf?raw=true)
+- [Artikel zur Populationsdynamik](https://github.com/mgje/Python-Mathematik-Beispiele/Mathematik_Artikel/blob/master/Populationsdynamik_koerner_Istron6.pdf)
+- [Beispiel zum Rundreiseproblem, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
+- [Numerische Optimierung, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
+- [Numerische Lösungen von DGL, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Beispiele/numDGL)  
 - [Programmieraufgaben](http://www.programmieraufgaben.ch/)
 - [http://www.scipy.org/Cookbook](http://www.scipy.org/Cookbook)
 - [http://www.scipy.org/Tentative_NumPy_Tutorial](http://www.scipy.org/Tentative_NumPy_Tutorial)
