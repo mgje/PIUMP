@@ -1,11 +1,8 @@
 Python in der Wissenschaft
 ==========================
 
-+ Einfache Programmiersprache für zahlreiche numerische Verfahren
-+ Umfangreiche wissenschaftliche Bibliotheken
-+ Ipython - Iteractive Computing
-+ Python Notebook - Integration von Webresourcen & Latex, jeder Schritt wird abgespeichert. 
-+ Grosses Angebot an Python Notebooks von internationalen Universitäten
+__[Folien: Python in der Wissenschaft](http://mgje.github.io/presentations/scipython)__
+__[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
 
 Installationsanleitung für Ipython und Python Notebooks
 =======================================================
@@ -14,51 +11,36 @@ Installationsanleitung für Ipython und Python Notebooks
 Arbeiten mit interaktiven Notebooks
 ===================================
 
+* [Dynamische Systeme mit Python simulieren](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+
+* [IPython Notebook zu Reaktion-Diffusion Simulationen](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
+
+* [IPython Notebook Schwarmsimulation](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
 
 
-weitere Materialien & e-books 
+
+Weitere Materialien & e-books 
 =============================
+* [Vorlesung (2014) SciPy - Library of scientific algorithms for Python, von J.R. Johansson, Hirosawa, Wako-shi, JAPAN ](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
+
+* [Programming with Python, G. Wilson](http://swcarpentry.github.io/python-novice-inflammation/)
+
+* [Wakari.io Beispiele](https://www.wakari.io/gallery) 
+
+* [Gallery of IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
 * [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)
 * [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)
-* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 
-
-Arbeiten im Computerlabor
-=========================
-1. MacMini hinten rechts einschalten
-1. Mit dem Betriebssystem __Linux__ starten
-	- 2 x Pfeiltaste nach rechts,  Ubuntu wählen + Enter drücken :leftwards_arrow_with_hook:
-1. Einloggen 
-	- :bust_in_silhouette: User: ```gast``` + Enter :leftwards_arrow_with_hook: ,  Passwort: ```gast``` + Enter :leftwards_arrow_with_hook:
-1.Chromium Browser starten
-	- :symbols: Command+A drücken,  ```chromium``` + Enter :leftwards_arrow_with_hook:
-1. Python-Notebooks von GitHub __herunterladen__
-	- :page_with_curl: [https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master](https://github.com/mgje/Python-Mathematik-Beispiele/zipball/master)
-
-1. Archiv öffnen, Ordner :file_folder: ```Python-Notebooks``` entpacken
-	- Heruntergeladene Datei anklicken
-	- Ordner :file_folder: ```Python-Notebooks``` in den  Ordner :file_folder: ```Downloads``` entpacken (engl. extract)
-1. Terminal starten
-	- :symbols: Command+A : ```Terminal``` +  Enter :leftwards_arrow_with_hook:
-
-1. IPython Notebook aus Terminal starten
-	- ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` 
-
-1. Die interaktiven Arbeitsblätter finden sich im Ordner: ```Downloads/Python-Notebooks```
-
-![screenshot](https://raw.githubusercontent.com/mgje/Python-Mathematik-Beispiele/master/Python-Notebooks/images/Screenshotjupyter.png)
-
-
-## IPython Notebook starten / stoppen
-
-- Starten mit dem Terminalbefehl: ```/usr/local/anaconda/bin/ipython notebook --browser=chromium-browser``` + Enter :leftwards_arrow_with_hook:
+IPython Notebook
+================
+- Starten mit dem Terminalbefehl: ```ipython notebook``` + Enter :leftwards_arrow_with_hook:
 - Stoppen:  Terminal anwählen, :symbols: Ctrl + C drücken und Abbruch mit ```y``` :leftwards_arrow_with_hook: bestätigen.
-- Eine Simulation kann mit Hilfe von Kernel/Restart neu gestartet werden. Dies hilft auch, wenn das System irgenwo hängt. 
+- Abbrechen: Ein laufendes Programm kann mit Hilfe von Kernel/Restart neu gestartet werden. Dies hilft auch, wenn das System irgenwo hängt. 
 
-
-## IPython Notebook Benutzerschnittstelle
-
+IPython Notebook Benutzerschnittstelle
+======================================
 - Mit der Tastenkobination CTRL + Enter kann ein einzelner Block ausgeführt werden.
 - Eine interaktive IPython Notebook Tour lässt im Menü Help/User Interface Tour starten
 - Die Keyboard Shortcuts finden Sie im Menü Help/Keyboard Shortcuts 
