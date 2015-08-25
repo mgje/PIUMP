@@ -31,8 +31,6 @@ Funktion, Verzweigungen, Rechnen mit Arrays, Darstellung von
 Kurven)
 - [Python im Schuleinsatz (2012), Folien (PDF)](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python_im_Schuleinsatz.pdf?raw=true)
 - [Artikel zur Populationsdynamik](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Mathematik_Artikel/Populationsdynamik_koerner_Istron6.pdf?raw=true)
-- [Beispiel zum Rundreiseproblem, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Beispiele/Rundreise-TSP_FAST) (Traveling Salesman)
-- [Numerische Optimierung, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Beispiele/Optimierung) (Verbiegung eines Kranauslegers)
 - [Numerische Lösungen von DGL, Python Sourcecode](https://github.com/mgje/Python-Mathematik-Beispiele/blob/master/Python-Beispiele/numDGL)  
 - [Programmieraufgaben](http://www.programmieraufgaben.ch/)
 - [http://www.scipy.org/Cookbook](http://www.scipy.org/Cookbook)
