@@ -2,10 +2,8 @@ Python in der Wissenschaft
 ==========================
 
 __[Folien: Python in der Wissenschaft](http://mgje.github.io/presentations/scipython)__
-__[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
 
-Installationsanleitung für Ipython und Python Notebooks
-=======================================================
+__[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
 
 
 Arbeiten mit interaktiven Notebooks
@@ -32,7 +30,6 @@ Weitere Materialien & e-books
 * [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)
 * [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)
 
-
 IPython Notebook
 ================
 - Starten mit dem Terminalbefehl: ```ipython notebook``` + Enter :leftwards_arrow_with_hook:
@@ -47,6 +44,7 @@ IPython Notebook Benutzerschnittstelle
 - Mit der Taste a oder b lassen sich neue Blöcke einfügen
 - Mit dem Menüpunkt Cell / Run All können alle Blöcke automatisch der Reihe nach ausgeführt werden.
 
-
-
+Installationsanleitung für Ipython und Python Notebooks
+=======================================================
+- Einfacher Weg: Mit dem Paketmanager Anaconda installieren. [Link](http://docs.continuum.io/anaconda/install)
 
