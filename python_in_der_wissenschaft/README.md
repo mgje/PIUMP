@@ -28,7 +28,10 @@ Weitere Materialien & e-books
 * [Gallery of IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 * [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)
+
 * [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)
+
+* [IPython Videos](http://ipython.org/videos.html)
 
 IPython Notebook
 ================
