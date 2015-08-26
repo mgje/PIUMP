@@ -16,7 +16,6 @@ Arbeiten mit interaktiven Notebooks
 * [IPython Notebook Schwarmsimulation](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
 
 
-
 Weitere Materialien & e-books 
 =============================
 * [Vorlesung (2014) SciPy - Library of scientific algorithms for Python, von J.R. Johansson, Hirosawa, Wako-shi, JAPAN ](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
