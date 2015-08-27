@@ -26,6 +26,8 @@ Weitere Materialien & e-books
 
 * [Gallery of IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
+* [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+
 * [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)
 
 * [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)
