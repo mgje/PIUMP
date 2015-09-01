@@ -1,10 +1,14 @@
-"""Zu einem Artikel aus der Rubrik Schweiz von 20min 
+"""Zu einem Artikel von 20min 
 verschiedene Kenngrössen zu den Leserreaktion ermitteln. 
 WICHTIG: ID des zu untersuchenden Artikels 
 direkt im Source Code eingeben."""
-## Change story ID in line 219 
+## Change story ID 
+
+storyid = '25287962' #Aendern Sie diese ID
+
 from urllib2 import urlopen
 from HTMLParser import HTMLParser
+import pprint
 
 def count_comment_entries(cm):
     count = 0
@@ -150,7 +154,7 @@ class ArticleParser(HTMLParser): # derive new HTML parser
                 self.position = 'content'
         elif tag == 'div':
             self.divlevel += 1
-            if taghasattr('class','entry',attrs) and self.divlevel == 1:
+            if taghasattr('class','entry',attrs) and self.divlevel < 9:
                 self.inentry = True
             elif taghasattr('class','replies',attrs):
                 self.replies =[]
@@ -187,7 +191,7 @@ class ArticleParser(HTMLParser): # derive new HTML parser
                 
         elif tag == 'div':
             self.divlevel -= 1
-            if self.divlevel == 0:
+            if self.divlevel < 8 and self.comment != None:
                 if self.inreplies:
                     self.comment['reply'] = self.replies
                 self.inentry = False
@@ -217,12 +221,10 @@ class ArticleParser(HTMLParser): # derive new HTML parser
 
 zeitung = 'http://www.20min.ch';
 
-##
-## Rubrik Schweiz wählen
-storyid = '18322505' #Aendern Sie diese ID
-##
-##
-kommentare = zeitung + '/community/storydiscussion/messageoverview.tmpl?storyid=' + storyid
+## storyid = '25404415' #Aendern Sie diese ID
+
+#kommentare = zeitung + '/community/storydiscussion/messageoverview.tmpl?storyid=' + storyid
+kommentare = zeitung + '/talkbacks/story/ + storyid
 story = zeitung + '/schweiz/news/story/' + storyid
 
 
@@ -241,6 +243,8 @@ p = ArticleParser()
 p.feed(html) 
 
 article_comments = p.get_comments()
+
+pprint.pprint(article_comments)
 
 print "Artikel-Fingerprint"
 print "Titel: %s"%storytitle
