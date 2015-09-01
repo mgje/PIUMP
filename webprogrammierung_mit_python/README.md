@@ -3,10 +3,9 @@ Webprogrammierung mit Python
 
 __[Folien: Webprogrammierung](http://mgje.github.io/presentations/webprog)__
 
-__Alle Source Code zu den Beispielen finden Sie im Unterordner src__
+__Alle Beispielen sind im im Unterordner src__
 
-Webprogrammierung Beispiele
-===========================
+## Webprogrammierung Beispiele
 
 * ___check_external_links.py___ Externe Links einer Webseite überprüfen
 * ___geolocation.py___ Geokoordinaten zu einer Adresse anfordern
