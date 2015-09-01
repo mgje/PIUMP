@@ -1,3 +1,4 @@
+"""Inverse Geokodierung, zu einer Geokoordinate (Lat,Long) eine Adresse ermitteln"""
 import urllib2
 import pprint
 import json

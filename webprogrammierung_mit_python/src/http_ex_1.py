@@ -1,3 +1,4 @@
+"""HTTP-Anfrage mit Hilfe von httplib durchführen und den Response Header ausgeben"""
 from httplib import HTTPConnection
 
 conn = HTTPConnection("www.tigerjython.ch")

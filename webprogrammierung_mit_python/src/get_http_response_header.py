@@ -1,3 +1,4 @@
+""" Response Header einer HTTP-Anfrage ausgeben """
 from urllib2 import urlopen
 
 endpoint = "http://www.tigerjython.ch"

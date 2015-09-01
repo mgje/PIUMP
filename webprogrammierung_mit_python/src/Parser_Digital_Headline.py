@@ -1,3 +1,4 @@
+""" HEAD News ser Rubrik Digital von 20min ermitteln und ausgeben """
 from HTMLParser import HTMLParser
 import urllib2
 

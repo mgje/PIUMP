@@ -1,3 +1,4 @@
+""" Geokoordinaten zu einer Adresse anfordern """
 import urllib2
 import pprint
 import json

@@ -1,3 +1,4 @@
+""" Externe Links einer Webseite überprüfen """
 from HTMLParser import HTMLParser
 from urllib2 import urlopen
 import sys

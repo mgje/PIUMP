@@ -1,12 +1,14 @@
+"""Wegbeschreibung für eine Route von A nach B bei Google anfordern und als Text ausgeben."""
 import urllib2
 import json
 import re
 
+## Trick um HTML Elemente weg zu bekommen
 TAG_RE = re.compile(r'<[^>]+>')
-
 def remove_tags(text):
     return TAG_RE.sub('', text)
 
+## Parameter für Route
 start = "Universitätstrasse 6 ETH Zürich"
 ziel = "Zoo Zürich"
 sprache = "de" # "en"

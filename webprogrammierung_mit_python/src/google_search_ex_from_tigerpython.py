@@ -1,3 +1,4 @@
+""" Google Search Beispiel aus dem Online-Lehrmittel TigerJython """
 import urllib2, json
 
 search = input("Enter a search string(AND-connect with +):")
