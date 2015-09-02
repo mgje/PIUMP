@@ -4,7 +4,7 @@ WICHTIG: ID des zu untersuchenden Artikels
 direkt im Source Code eingeben."""
 ## Change story ID 
 
-storyid = "25404415" #Aendern Sie diese ID
+storyid = "25774941" #Aendern Sie diese ID
 
 from urllib2 import urlopen
 from HTMLParser import HTMLParser
@@ -36,13 +36,47 @@ def author_hist(cm):
             
         if "reply" in entry:
             for reply in entry["reply"]:
-                if entry["author"] in d:
-                    d[entry["author"]] += 1
+                if reply["author"] in d:
+                    d[reply["author"]] += 1
                 else:
-                    d[entry["author"]] = 1
+                    d[reply["author"]] = 1
     return d
+
+def max_msg_thread(cm):
+    max_msg = 0
+    max_thread = 0
+    for entry in cm:
+        msg_nr = entry["info"]["msg"]
+        thread_nr = entry["info"]["thread"]
+        if int(thread_nr) > max_thread:
+            max_thread = int(thread_nr)
+        if int(msg_nr) > max_msg:
+            max_msg = int(msg_nr)
+        if "reply" in entry:
+            for reply in entry["reply"]:
+                msg_nr = reply["replyinfo"]["msg"]
+                thread_nr = reply["replyinfo"]["thread"]
+                if int(thread_nr) > max_thread:
+                    max_thread = int(thread_nr)
+                if int(msg_nr) > max_msg:
+                    max_msg = int(msg_nr)
+                    
+    return max_thread,max_msg
+
+def thread_msg_numbers(cm):
+    msgl = []
+    threadl = []
+    for entry in cm:
+        msgl.append(int(entry["info"]["msg"]))
+        threadl.append(int(entry["info"]["thread"]))
+        if "reply" in entry:
+            for reply in entry["reply"]:
+                msgl.append(int(reply["replyinfo"]["msg"]))
+                threadl.append(int(reply["replyinfo"]["thread"]))
+    return threadl,msgl
+        
     
-    
+
 def reply_hist(cm):
     d = []
     for entry in cm:
@@ -248,8 +282,19 @@ print "Anzahl Kommentare und Antworten: %d"% count_all_entries(article_comments)
 print "Anzahl Kommentare: %d"% count_comment_entries(article_comments)
 print "Anzahl verschiedener Autoren: %d" % nr_of_authors(article_comments)
 print "Max Beiträge eines Autors: %d" % get_max_nr_per_author(article_comments)
+print "Autor mit den meisten Beiträgen: %s" % author_with_max_comments(article_comments)
 print "Max Rückmeldungen auf einen Kommentar: %d" % max_replies(article_comments)
 vu,vd = max_vote_up_down(article_comments)
 print "Max Up_Votes eines Kommentars: %d" % vu
 print "Max Down_Votes eines Kommentars: %d" % vd
+mt,mm = max_msg_thread(article_comments)
+print "Max Threads: %d " % mt
+print "Max MSG NR: %d " % mm
+tl,ml = thread_msg_numbers(article_comments)
+print "Existing Threads: "
+print tl
+print "Existing MSG Nr: "
+print ml
 
+
+#pprint.pprint(article_comments)
