@@ -6,8 +6,8 @@ handler = urlopen(endpoint)
 headers = handler.headers
 code = handler.getcode()
 
-print("HTTP-Status:",code)
-print(headers)
+print "HTTP-Status:", code
+print headers
 
 
 

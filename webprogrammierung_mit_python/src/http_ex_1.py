@@ -8,6 +8,6 @@ res = conn.getresponse()
 print res.status, res.reason 
 
 for header in res.getheaders():
-    print(header[0]+" : "+header[1])
+    print header[0] + " : " + header[1]
 
 conn.close()

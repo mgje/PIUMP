@@ -5,7 +5,7 @@ conn = urlopen("http://www.tigerjython.ch")
 status = conn.getcode()
 reason = conn.msg
 
-print(status,reason)
-print(conn.headers)
+print status,reason
+print conn.headers
 
 conn.close()

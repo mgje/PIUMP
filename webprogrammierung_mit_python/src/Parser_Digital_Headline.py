@@ -36,4 +36,4 @@ encoding = "iso-8859-1"
 html = res.read().decode(encoding)   
 parser = DigitalHeadLine()
 parser.feed(html)
-parser.getheadlines()
+print parser.getheadlines()
