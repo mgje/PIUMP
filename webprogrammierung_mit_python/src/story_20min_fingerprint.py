@@ -297,4 +297,5 @@ print "Existing MSG Nr: "
 print ml
 
 
-#pprint.pprint(article_comments)
+
+pprint.pprint(article_comments)
