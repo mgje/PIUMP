@@ -16,15 +16,29 @@
 ## Materialien zu spezifischen Themen
 
 - __Die Suche nach einem optimalen Standort mit Hilfe des Weiszfeld Algorithmus__ 
+	- Beschreibung des Wiedfeld Algorithmus an einem Beispiel
+  - [GDM Vortrag  Forschendes Lernen mit Hilfe von
+Optimierungsaufgaben am Beispiel eines
+klassischen Lokalisierungsproblems](http://mgje.github.io/presentations/GDM2015/#/)
+  - [Solving the Fermat-Weber problem](http://mgje.github.io/presentations/Budapest2014/#/)
 
-- __Lösen von Optimierungsaufgaben mit Hilfe der Programmiersprache Python__
+- __Suche nach optimalen Kurven - Interpolation mit Hilfe der Programmiersprache Python__ 
+- lineare Interpolation
+- Kubische Interpolation
+- Finden Sie ein Beispiel aus dem Alltag
+[Beispiele](Interpolation_mit_SciPy_und_NumPy.ipynb)
 
 - __Computeralgebra mit Python – Beispiele und Möglichkeiten__
+
+[Symbolisch Rechnen mit Python](https://vimeo.com/77921640)
+
+[Beispiele](Computeralgebra_mit_Python.ipynb)
 
 - __Berechnung und Darstellung von Kurven mit Hilfe von Python__ 
 
 - __Daten aus dem Internet anfragen, verarbeiten und nutzen__
 
+Dijkstra-Algorithmus
 
 Rückmeldungen
 =============
