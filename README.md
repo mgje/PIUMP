@@ -1,8 +1,9 @@
 # PIUMP - Programmieren im Unterricht mit Python
 
-Die Programmiersprache Python eignet sich hervorragend für den Einführungsunterricht in Informatik. 
+Die Programmiersprache Python eignet sich hervorragend für den Einstieg in die Programmierung !
 
-Auf dieser Github-Seite finden Sie Kursunterlagen zu 
+Auf dieser Github-Seite finden Sie Kursunterlagen und Quellcode zu 
+-  __Wissenschaftliches Rechnen und Wachstumsprozesse__ [Source-Code / Jupyter-Notebook](Beispiele_Skript_SciComputing/)
 
 - __Wepprogrammierung mit Python__ [HTML5-Folien](http://mgje.github.io/presentations/webprog) , PDF
 - __Python in der Wissenschaft__ [HTML5-Folien](http://mgje.github.io/presentations/scipython) , PDF
