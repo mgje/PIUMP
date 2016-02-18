@@ -9,9 +9,21 @@
 - [Kapitel 1: Array / 2D-Plots](Kapitel_4_Array_Plots.ipynb)
 
 ## Code Ausführen
-1. __In einer Python Programmierumgebung:__ Um die Beispiele (Programme) ausführen zu können, empfehle ich die Programmierumgebung [TigerJython](http://jython.tobiaskohn.ch/index-de.html) von Tobias Kohn. Auf der Online-Lernplattform [www.tigerjython.ch](http://www.tigerjython.ch/) finden Sie weitere Beispiele, welche sich direkt mit der Programmierumgebung [TigerJython](http://jython.tobiaskohn.ch/index-de.html) ausführen lassen. 
+1. __In einer Python Programmierumgebung:__ Um die Beispiele (Programme) ausführen zu können, empfehle ich die Programmierumgebung [TigerJython](http://jython.tobiaskohn.ch/index-de.html) von Tobias Kohn. Auf der Online-Lernplattform [www.tigerjython.ch](http://www.tigerjython.ch/) finden Sie weitere Beispiele zur Programmierung mit Python. Alle vorgestellten Beispiele lassen sich direkt in der Programmierumgebung [TigerJython](http://jython.tobiaskohn.ch/index-de.html) ausführen. 
 
 2. __direkt in der Cloud:__ Sie könne alle hier vorgestellten [Beispiele](https://github.com/mgje/PIUMP/archive/master) als ZIP-Datei herunter laden. Die einzelnen .ipynb Dateien können mit der upload Funktion direkt in die [Jupyter-Cloud](https://try.jupyter.org/) (ohne Registrierung) importiert werden. 
+
+## Materialien zu spezifischen Themen
+
+- __Die Suche nach einem optimalen Standort mit Hilfe des Weiszfeld Algorithmus__ 
+
+- __Lösen von Optimierungsaufgaben mit Hilfe der Programmiersprache Python__
+
+- __Computeralgebra mit Python – Beispiele und Möglichkeiten__
+
+- __Berechnung und Darstellung von Kurven mit Hilfe von Python__ 
+
+- __Daten aus dem Internet anfragen, verarbeiten und nutzen__
 
 
 Rückmeldungen
