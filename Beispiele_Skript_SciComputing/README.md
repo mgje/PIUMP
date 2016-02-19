@@ -26,19 +26,24 @@ klassischen Lokalisierungsproblems](http://mgje.github.io/presentations/GDM2015/
 - lineare Interpolation
 - Kubische Interpolation
 - Finden Sie ein Beispiel aus dem Alltag
-[Beispiele](Interpolation_mit_SciPy_und_NumPy.ipynb)
+[Beispiele JuPyter Notebooks](Interpolation_mit_SciPy_und_NumPy.ipynb)
 
 - __Computeralgebra mit Python – Beispiele und Möglichkeiten__
 
 [Symbolisch Rechnen mit Python](https://vimeo.com/77921640)
 
-[Beispiele](Computeralgebra_mit_Python.ipynb)
+[Beispiele JuPyter Notebooks](Computeralgebra_mit_Python.ipynb)
 
 - __Berechnung und Darstellung von Kurven mit Hilfe von Python__ 
 
+-[Matplotlib Documentation](http://matplotlib.org/contents.html#)
+-[YouTube Tuorials zu Matplotlib](https://www.youtube.com/watch?v=q7Bo_J8x_dw)
+-[Beispiel JuPyter Notebooks](matplotlib.ipynb)
+
 - __Daten aus dem Internet anfragen, verarbeiten und nutzen__
 
-Dijkstra-Algorithmus
+-[Tutorial: Daten aus dem Web automatisiert verarbeiten](http://mgje.github.io/presentations/webprog/#/)
+-[Beispiele JuPyter Notebooks](Daten_aus_dem_Internet_verarbeiten.ipynb)
 
 Rückmeldungen
 =============
