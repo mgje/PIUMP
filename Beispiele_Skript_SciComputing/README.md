@@ -1,6 +1,6 @@
 # Source Code und weitere Beispiele zu der Veranstaltung Wissenschaftliches Rechnen mit Python 
 
-## Source Code zu den Kapitel 1-4
+## Source Code zum Skript
 
 - [Kapitel 1: Variablen / Ausdrücke](Kapitel_1_Variablen_Ausdruecke.ipynb)
 - [Kapitel 2: Schleifen / Listen](Kapitel_2_Schleifen_Listen.ipynb)
