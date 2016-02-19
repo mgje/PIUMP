@@ -23,9 +23,8 @@ klassischen Lokalisierungsproblems](http://mgje.github.io/presentations/GDM2015/
   - [Solving the Fermat-Weber problem](http://mgje.github.io/presentations/Budapest2014/#/)
 
 - __Suche nach optimalen Kurven - Interpolation mit Hilfe der Programmiersprache Python__ 
-	- Lineare und kubische Interpolation
+	- Lineare und kubische Interpolation, [Beispiele JuPyter Notebooks](Interpolation_mit_SciPy_und_NumPy.ipynb)
 	- Beispiel aus dem Alltag
-	- [Beispiele JuPyter Notebooks](Interpolation_mit_SciPy_und_NumPy.ipynb)
 
 - __Computeralgebra mit Python – Beispiele und Möglichkeiten__
 
