@@ -40,7 +40,8 @@
 	- Download und Install [Anaconda](https://www.continuum.io/downloads) (350 - 500 MB)
 	- Launcher starten
 	- ipython-notebook (JuPyter-Notebook) mit dem Launch Knopf starten
-	- [Dokumentation zu JuPyter Notebook](https://jupyter.readthedocs.org/en/latest/running.html)
+	- [JuPyter Notebook User Manual](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
+	- [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
 Rückmeldungen
 =============
