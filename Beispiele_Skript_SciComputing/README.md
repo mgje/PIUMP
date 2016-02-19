@@ -1,5 +1,4 @@
-# Source Code und weitere Beispiele zu der Veranstaltung 
-# Wissenschaftliches Rechnen mit Python 
+# Source Code und weitere Beispiele zu der Veranstaltung Wissenschaftliches Rechnen mit Python 
 
 ## Source Code zu den Kapitel 1-4
 
@@ -40,6 +39,11 @@ klassischen Lokalisierungsproblems](http://mgje.github.io/presentations/GDM2015/
 - __Daten aus dem Internet anfragen, verarbeiten und nutzen__
 	- [Tutorial: Daten aus dem Web automatisiert verarbeiten](http://mgje.github.io/presentations/webprog/#/)
 	- [Beispiele JuPyter Notebooks](Daten_aus_dem_Internet_verarbeiten.ipynb)
+	- 
+## Installation JuPyter Notebook auf dem eigenen Computer
+
+- Download und Install [Anaconda](https://www.continuum.io/downloads)
+
 
 Rückmeldungen
 =============
