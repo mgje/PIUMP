@@ -6,7 +6,7 @@
 - [Kapitel 1: Variablen / Ausdrücke](Kapitel_1_Variablen_Ausdruecke.ipynb)
 - [Kapitel 2: Schleifen / Listen](Kapitel_2_Schleifen_Listen.ipynb)
 - [Kapitel 3: Funktionen](Kapitel_3_Funktionen.ipynb)
-- [Kapitel 1: Array / 2D-Plots](Kapitel_4_Array_Plots.ipynb)
+- [Kapitel 4: Array / 2D-Plots](Kapitel_4_Array_Plots.ipynb)
 
 ## Code Ausführen
 1. __In einer Python Programmierumgebung:__ Um die Beispiele (Programme) ausführen zu können, empfehle ich die Programmierumgebung [TigerJython](http://jython.tobiaskohn.ch/index-de.html) von Tobias Kohn. Auf der Online-Lernplattform [www.tigerjython.ch](http://www.tigerjython.ch/) finden Sie weitere Beispiele zur Programmierung mit Python. Alle vorgestellten Beispiele lassen sich direkt in der Programmierumgebung [TigerJython](http://jython.tobiaskohn.ch/index-de.html) ausführen. 
