@@ -24,7 +24,7 @@ klassischen Lokalisierungsproblems](http://mgje.github.io/presentations/GDM2015/
 
 - __Suche nach optimalen Kurven - Interpolation mit Hilfe der Programmiersprache Python__ 
 	- Lineare und kubische Interpolation, [Beispiele JuPyter Notebooks](Interpolation_mit_SciPy_und_NumPy.ipynb)
-	- Daten Interpolation in den Naturwissenschaften, [Video Tutorial](https://www.youtube.com/watch?v=sNxW40hHSZU)
+	- Dateninterpolation in den Naturwissenschaften, [Video Tutorial](https://www.youtube.com/watch?v=sNxW40hHSZU)
 
 - __Computeralgebra mit Python – Beispiele und Möglichkeiten__
 
