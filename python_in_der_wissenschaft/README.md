@@ -52,3 +52,6 @@ Installationsanleitung für Ipython und Python Notebooks
 =======================================================
 - Einfacher Weg: Mit dem Paketmanager Anaconda installieren. [Link](http://docs.continuum.io/anaconda/install)
 
+Try it now
+==========
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP)
