@@ -46,3 +46,7 @@
 Rückmeldungen
 =============
 Kommentare und Rückmeldungen sind willkommen und werden so rasch wie möglich aufgenommen.
+
+Try it now
+==========
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP)
