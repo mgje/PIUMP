@@ -4,10 +4,14 @@ Die Programmiersprache Python eignet sich hervorragend für den Einstieg in die 
 
 Auf dieser Github-Seite finden Sie Kursunterlagen und Quellcode zu 
 -  __Wissenschaftliches Rechnen und Wachstumsprozesse__ [Source-Code / Jupyter-Notebook](Beispiele_Skript_SciComputing/)
+-  __GDM2016 - Mathematisches Experimentieren mit „ipython notebook“__ [Unterlagen / Jupyter-Notebook](GDM2016/)
 
-- __Wepprogrammierung mit Python__ [HTML5-Folien](http://mgje.github.io/presentations/webprog) , PDF
-- __Python in der Wissenschaft__ [HTML5-Folien](http://mgje.github.io/presentations/scipython) , PDF
+- __Wepprogrammierung mit Python__ [HTML5-Folien](http://mgje.github.io/presentations/webprog) 
+- __Python in der Wissenschaft__ [HTML5-Folien](http://mgje.github.io/presentations/scipython) 
 
+Interaktive Laborjournale
+=========================
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP)
 
 TigerJython
 ===========
