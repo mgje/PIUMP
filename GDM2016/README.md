@@ -1,6 +1,5 @@
 # Mathematisches Experimentieren mit „ipython notebook“ 
-
-Elektronische Materialien zum GDM Beitrag 2016
+### Elektronische Materialien 
 <p>50. GDM-Jahrestagung, Heidelberg, 2016</p>
 
 - [Vortragsunterlagen](Ping_Pong.ipynb)
