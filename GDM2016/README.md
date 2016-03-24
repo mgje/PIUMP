@@ -1,6 +1,6 @@
-# PIUMP/GDM2016 - Mathematisches Experimentieren mit „ipython notebook“ 
+# Mathematisches Experimentieren mit „ipython notebook“ 
 
-Vortrag an der 
+Elektronische Materialien zum GDM Beitrag 2016
 <p>50. GDM-Jahrestagung, Heidelberg, 2016</p>
 
 - [Vortragsunterlagen](Ping_Pong.ipynb)
