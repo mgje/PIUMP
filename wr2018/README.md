@@ -13,6 +13,3 @@
 | 03.05, 10.00  | Optimierungsverfahren            | [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                                 |
 | 24.05, 08.15  | Fraktale Geometrie               | [Fraktale](Fraktale.ipynb)                                                              |
 
-
-
-Koch Hilbert Mandelbrot
