@@ -12,7 +12,7 @@ Auf dieser Github-Seite finden Sie Kursunterlagen und Quellcode zu
 
 Interaktive Laborjournale
 =========================
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mgje/PIUMP/master)
 
 TigerJython
 ===========
