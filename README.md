@@ -3,6 +3,7 @@
 Die Programmiersprache Python eignet sich hervorragend für den Einstieg in die Programmierung !
 
 Auf dieser Github-Seite finden Sie Kursunterlagen und Quellcode zu 
+-  __FS18 Einstieg ins wissenschaftliche Rechnen__ [Source-Code / Jupyter-Notebook](wr2018/)
 -  __Wissenschaftliches Rechnen und Wachstumsprozesse__ [Source-Code / Jupyter-Notebook](Beispiele_Skript_SciComputing/)
 -  __GDM2016 - Mathematisches Experimentieren mit „ipython notebook“__ [Unterlagen / Jupyter-Notebook](GDM2016/)
 
