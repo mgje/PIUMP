@@ -10,8 +10,8 @@
 | 05.04, 10.00  | Matplotlib, NumPy                | [Kap 4](Kapitel_4_Array_Plots.ipynb)                                     |
 | 19.04, 08.15  | numerische Verfahren             | [num_Alg](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)                                                                 |
 | 03.05, 08.15  | numerische Verfahren II          | [num_Alg](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)                                                                 |
-| 03.05, 10.00  | Optimierungsverfahren            | [Kap 7]()                                                                 |
-| 24.05, 08.15  | Fraktale Geometrie               | [Kap 8]()                                                                 |
+| 03.05, 10.00  | Optimierungsverfahren            | [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                                 |
+| 24.05, 08.15  | Fraktale Geometrie               | [Fraktale]()                                                                 |
 
 
 
