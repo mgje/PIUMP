@@ -13,7 +13,7 @@
 | 03.05, 10.00  | Optimierungsverfahren            | [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                                 |
 | 24.05, 08.15  | Fraktale Geometrie               | [Fraktale](Fraktale.ipynb)                                                              |
 
-### Unterrichtsmaterial ADAM
+### Unterrichtsmaterial auf ADAM (Universität Basel)
 * [Skript WRFS2018](https://adam.unibas.ch/goto_adam_crs_581382.html)
 
 ### Weiterführende Literatur
@@ -21,9 +21,6 @@
 * 	Oldenburg, Reinhard (2011). Mathematische Algorithmen im Unterricht, Vieweg Verlag, Friedr, & Sohn Verlagsgesellschaft mbH. ISBN 978-3-834-81725-9 [Link zu Springer](https://link.springer.com/book/10.1007/978-3-8348-8336-0)
 
 * Gressly Freimann, Philipp, und Guggisberg, Martin (2011). Programmieren lernen. Aufgaben für den Informatikunterricht - Sekundarstufe II. Orell Füssli. ISBN 978-3-280-04066-9 [Link zu orell füssli](https://ofv.ch/lernmedien/detail/programmieren-lernen/14505/)
-
-* . 
-* Gressly Freimann, Philipp, und Guggisberg, Martin (2011). Programmieren lernen. Aufgaben für den Informatikunterricht - Sekundarstufe II. Orell Füssli. ISBN 978-3-280-04066-9 [Link zu orell füssli](https://ofv.ch/lernmedien/detail/programmieren-lernen/14505/) 
 
 * Langtangen, Hans Petter(2014). A Primer on Scientific
 Programming with Python [free on GitHub](https://hplgit.github.io/primer.html/doc/pub/half/book.pdf)
