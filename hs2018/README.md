@@ -29,7 +29,8 @@
 ### Unterrichtsmaterial auf Moodle
 * Link
 
-### Weiterführende Literatur
+### Weiterführende Literatur 
+
 
 * 	Oldenburg, Reinhard (2011). Mathematische Algorithmen im Unterricht, Vieweg Verlag, Friedr, & Sohn Verlagsgesellschaft mbH. ISBN 978-3-834-81725-9 [Link zu Springer](https://link.springer.com/book/10.1007/978-3-8348-8336-0)
 
