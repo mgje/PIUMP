@@ -1,12 +1,12 @@
 ## HS2018 Algorithmik und numerische Methoden
 
 ### Soucecode zu Beispielen zum kopieren
-[Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
-[Kapitel 2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)
-[Kapitel 3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)
-[Numerische Algorithmen (Oldenburg)](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)
-[Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)
 
+- [Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
+- [Kapitel 2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)
+- [Kapitel 3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)
+- [Numerische Algorithmen (Oldenburg)](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)
+- [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)
 
 
 
