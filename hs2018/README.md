@@ -2,7 +2,7 @@
 
 | Datum         | Inhalt                           | Materialien, Links                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
-| 20.09, 21.09  | Organisation, Werkzeuge  installieren | [YouTube](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
+| 20.09, 21.09  | Organisation, Werkzeuge  installieren | [YouTube JuPyter-Notebooks](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
 | 27.09, 28.09  | Wissenschaftliches Rechnen I     |                           |
 | 04.10, 05.10  | Wissenschaftliches Rechnen I I   |                              |
 | 11.10, 12.10  | Wissenschaftliches Rechnen I I I                         |                                |
