@@ -1,4 +1,15 @@
-## HS2018 Einstieg ins wissenschaftliche Rechnen
+## HS2018 Algorithmik und numerische Methoden
+
+### Beispiele aus dem Skript zum kopieren
+[Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
+[Kapitel 2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)
+[Kapitel 3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)
+
+
+
+
+
+### Zeitplan
 
 | Datum         | Inhalt                           | Notebooks                                                                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
