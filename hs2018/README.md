@@ -1,10 +1,6 @@
 ## HS2018 Algorithmik und numerische Methoden
 
-
-
-### Zeitplan
-
-| Datum         | Inhalt                           | Notebooks                                                                |
+| Datum         | Inhalt                           | Materialien, Links                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
 | 20.09, 21.09  | Organisation, Werkzeuge  installieren | [YouTube](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
 | 27.09, 28.09  | Wissenschaftliches Rechnen I     |                           |
@@ -15,7 +11,7 @@
 | 01.11, 02.11  | Numerische Verfahren II           |                                                                  |
 | 08.11, 09.11  | Numerische Verfahren III         |                                                                  |
 | 22.11, 23.11  | Graphen und Graphalgorythmen            |                                                                  |
-| 6.12, 07.12  | Graphen und Graphalgorythmen II |                                                               |
+| 06.12, 07.12  | Graphen und Graphalgorythmen II |                                                               |
 | 13.12, 14.12  | Monte-Carlo Methode |                                                               |
 
 ### Unterrichtsmaterial auf Moodle
