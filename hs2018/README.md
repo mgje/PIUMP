@@ -39,5 +39,7 @@
 
 * Gressly Freimann, Philipp, und Guggisberg, Martin (2011). Programmieren lernen. Aufgaben für den Informatikunterricht - Sekundarstufe II. Orell Füssli. ISBN 978-3-280-04066-9 [Link zu orell füssli](https://ofv.ch/lernmedien/detail/programmieren-lernen/14505/)
 
-* Langtangen, Hans Petter(2014). A Primer on Scientific
+* Langtangen, Hans Petter (2014). A Primer on Scientific
 Programming with Python [free on GitHub](https://hplgit.github.io/primer.html/doc/pub/half/book.pdf)
+
+* Hromkovic, Juraj, Kohn, Tobias (2018). Einfach Informatik: Programmieren (erste Auflage), Zürich, [Klett](https://www.klett.ch/Katalog/Sekundarstufe%2BI/Informatik/Empfehlung/Einfach%2BInformatik%2B7-9%2B-%2BProgrammieren/Einfach+Informatik+7%E2%80%939+%E2%80%93+Programmieren/978-3-264-84463-4/shopartikel/).
