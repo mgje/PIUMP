@@ -1,10 +1,11 @@
 ## HS2018 Algorithmik und numerische Methoden
 
-### Beispiele aus dem Skript zum kopieren
+### Soucecode zu Beispielen zum kopieren
 [Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
 [Kapitel 2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)
 [Kapitel 3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)
-
+[Numerische Algorithmen (Oldenburg)](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)
+[Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)
 
 
 
@@ -13,16 +14,17 @@
 
 | Datum         | Inhalt                           | Notebooks                                                                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
-| 08.03, 08.15  | Organisation, Werkzeuge          | [YouTube](https://www.youtube.com/watch?v=q_BzsPxwLOE)                   |
-| 08.03, 10.00  | Ausgabe , Komplexe Zahlen        | [Kap 1](Kapitel_1_Variablen_Ausdruecke.ipynb)                            |
-| 22.03, 08.15  | Schleife, logische Ausd.         | [Kap 2](Kapitel_2_Schleifen_Listen.ipynb)                                |
-| 22.03, 10.00  | Listen                           | [Kap 2](Kapitel_2_Schleifen_Listen.ipynb)                                |
-| 05.04, 08.15  | Funktionen, Fallunterscheidungen | [Kap 3](Kapitel_3_Funktionen.ipynb)                                      |
-| 05.04, 10.00  | Matplotlib, NumPy                | [Kap 4](Kapitel_4_Array_Plots.ipynb)                                     |
-| 19.04, 08.15  | numerische Verfahren             | [num_Alg](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)                                                                 |
-| 03.05, 08.15  | numerische Verfahren II          | [num_Alg](Num_Algorithmen.ipynb)                                                                 |
-| 03.05, 10.00  | Optimierungsverfahren            | [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                                 |
-| 24.05, 08.15  | Fraktale Geometrie, Visualisierung Fermat | [Fraktale](Fraktale.ipynb)                                                              |
+| 20.09, 21.09  | Organisation, Werkzeuge  installieren | [YouTube](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
+| 27.09, 28.09  | Wissenschaftliches Rechnen I     |                           |
+| 04.10, 05.10  | Wissenschaftliches Rechnen I I   |                              |
+| 11.10, 12.10  | Wissenschaftliches Rechnen I I I                         |                                |
+| 18.10, 19.10  | Wissenschaftliches Rechnen I V |                                     |
+| 25.10, 26.10  | Numerische Verfahren I               |                                  |
+| 01.11, 02.11  | Numerische Verfahren II           |                                                                  |
+| 08.11, 09.11  | Numerische Verfahren III         |                                                                  |
+| 22.11, 23.11  | Graphen und Graphalgorythmen            |                                                                  |
+| 6.12, 07.12  | Graphen und Graphalgorythmen II |                                                               |
+| 13.12, 14.12  | Monte-Carlo Methode |                                                               |
 
 ### Unterrichtsmaterial auf Moodle
 * Link
