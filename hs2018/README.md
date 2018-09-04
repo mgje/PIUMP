@@ -1,16 +1,6 @@
 ## HS2018 Algorithmik und numerische Methoden
 
 
-### Soucecode zu Beispielen zum kopieren
-
-
-- [Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
-- [Kapitel 2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)
-- [Kapitel 3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)
-- [Numerische Algorithmen (Oldenburg)](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)
-- [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)
-
-
 
 ### Zeitplan
 
@@ -30,7 +20,7 @@
 
 ### Unterrichtsmaterial auf Moodle
 
-* Link TODO
+* Link auf Moodle ToDo
 
 ### Weiterführende Literatur 
 
@@ -43,3 +33,14 @@
 Programming with Python [free on GitHub](https://hplgit.github.io/primer.html/doc/pub/half/book.pdf)
 
 * Hromkovic, Juraj, Kohn, Tobias (2018). Einfach Informatik: Programmieren (erste Auflage), Zürich, [Klett](https://www.klett.ch/Katalog/Sekundarstufe%2BI/Informatik/Empfehlung/Einfach%2BInformatik%2B7-9%2B-%2BProgrammieren/Einfach+Informatik+7%E2%80%939+%E2%80%93+Programmieren/978-3-264-84463-4/shopartikel/).
+
+### Soucecode zu Beispielen zum kopieren
+
+
+- [Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
+- [Kapitel 2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)
+- [Kapitel 3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)
+- [Numerische Algorithmen (Oldenburg)](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)
+- [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)
+
+
