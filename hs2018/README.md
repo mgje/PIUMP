@@ -4,9 +4,9 @@
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
 | 20.09, 21.09  | Organisation, Werkzeuge  installieren | [YouTube JuPyter-Notebooks](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
 | 27.09, 28.09  | Wissenschaftliches Rechnen I     |  [Code in K1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)                         |
-| 04.10, 05.10  | Wissenschaftliches Rechnen I I   |  [Code in K2] (https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
-| 11.10, 12.10  | Wissenschaftliches Rechnen I I I                         |        [Code in K2]  (https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
-| 18.10, 19.10  | Wissenschaftliches Rechnen I V |  [Code in K3]      (https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)                              |
+| 04.10, 05.10  | Wissenschaftliches Rechnen I I   |  [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
+| 11.10, 12.10  | Wissenschaftliches Rechnen I I I                         |        [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
+| 18.10, 19.10  | Wissenschaftliches Rechnen I V |  [Code in K3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)                              |
 | 25.10, 26.10  | Numerische Verfahren I               |                                  |
 | 01.11, 02.11  | Numerische Verfahren II           |                                                                  |
 | 08.11, 09.11  | Numerische Verfahren III         |                                                                  |
@@ -16,7 +16,7 @@
 
 ### Unterrichtsmaterial auf Moodle
 
-* [Link auf die Moodle Plattform der FHNW] (https://moodle.fhnw.ch/course/view.php?id=38779)
+* [Link auf die Moodle Plattform der FHNW](https://moodle.fhnw.ch/course/view.php?id=38779)
 
 ### Weiterführende Literatur 
 
