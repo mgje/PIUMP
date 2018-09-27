@@ -16,10 +16,9 @@
 
 ### Unterrichtsmaterial auf Moodle
 
-* Link auf Moodle ToDo
+* [Link auf die Moodle Plattform der FHNW] (https://moodle.fhnw.ch/course/view.php?id=38779)
 
 ### Weiterführende Literatur 
-
 
 * 	Oldenburg, Reinhard (2011). Mathematische Algorithmen im Unterricht, Vieweg Verlag, Friedr, & Sohn Verlagsgesellschaft mbH. ISBN 978-3-834-81725-9 [Link zu Springer](https://link.springer.com/book/10.1007/978-3-8348-8336-0)
 
@@ -30,7 +29,7 @@ Programming with Python [free on GitHub](https://hplgit.github.io/primer.html/do
 
 * Hromkovic, Juraj, Kohn, Tobias (2018). Einfach Informatik: Programmieren (erste Auflage), Zürich, [Klett](https://www.klett.ch/Katalog/Sekundarstufe%2BI/Informatik/Empfehlung/Einfach%2BInformatik%2B7-9%2B-%2BProgrammieren/Einfach+Informatik+7%E2%80%939+%E2%80%93+Programmieren/978-3-264-84463-4/shopartikel/).
 
-### Soucecode zu Beispielen zum kopieren
+### Soucecode aus den  Beispielen zum direkten kopieren
 
 
 - [Kapitel 1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)
