@@ -1,4 +1,4 @@
-#Uebung 2.9 Zahlenmauer
+#Uebung 2.10 Zahlenmauer
 
 l = [4,2,8,9,1,3,4]
 mauer = []
