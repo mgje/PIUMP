@@ -1,18 +1,18 @@
 ## HS2018 Algorithmik und numerische Methoden
 
-| Datum         | Inhalt                           | Materialien, Links                |
+| Veranstaltung        | Inhalt                           | Materialien, Links                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
-| 20.09, 21.09  | Organisation, Werkzeuge  installieren | [YouTube JuPyter-Notebooks](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
-| 27.09, 28.09  | Wissenschaftliches Rechnen I     |  [Code in K1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)                         |
-| 04.10, 05.10  | Wissenschaftliches Rechnen I I   |  [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
-| 11.10, 12.10  | Wissenschaftliches Rechnen I I I                         |        [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
-| 18.10, 19.10  | Wissenschaftliches Rechnen I V |  [Code in K3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)                              |
-| 25.10, 26.10  | Numerische Verfahren I               |                                  |
-| 01.11, 02.11  | Numerische Verfahren II           |                                                                  |
-| 08.11, 09.11  | Numerische Verfahren III         |                                                                  |
-| 22.11, 23.11  | Graphen und Graphalgorythmen            |                                                                  |
-| 06.12, 07.12  | Graphen und Graphalgorythmen II |                                                               |
-| 13.12, 14.12  | Monte-Carlo Methode |                                                               |
+| V1  | Organisation, Werkzeuge  installieren | [YouTube JuPyter-Notebooks](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
+| V2  | Wissenschaftliches Rechnen I     |  [Code in K1](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)                         |
+| V3  | Wissenschaftliches Rechnen I I   |  [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
+| V4 | Wissenschaftliches Rechnen I I I                         |        [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
+| V5  | Wissenschaftliches Rechnen I V |  [Code in K3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)                              |
+| V6  | Numerische Verfahren I               |                                  |
+| V7  | Numerische Verfahren II           |                                                                  |
+| V8  | Numerische Verfahren III         |                                                                  |
+| V9  | Graphen und Graphalgorythmen            |                                                                  |
+| V10  | Graphen und Graphalgorythmen II |                                                               |
+| V11  | Monte-Carlo Methode |                                                               |
 
 ### Unterrichtsmaterial auf Moodle
 
