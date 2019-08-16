@@ -7,8 +7,8 @@
 | V3  | Wissenschaftliches Rechnen I I   |  [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
 | V4 | Wissenschaftliches Rechnen I I I                         |        [Code in K2](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
 | V5  | Wissenschaftliches Rechnen I V |  [Code in K3](https://github.com/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)                              |
-| V6  | Numerische Verfahren I               |                                  |
-| V7  | Numerische Verfahren II           |                                                                  |
+| V6  | Numerische Verfahren I               |  [Numerische Algorithmen (Oldenburg)](../Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)                                |
+| V7  | Numerische Verfahren II           |   [Optimierung](../Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                               |
 | V8  | Numerische Verfahren III         |                                                                  |
 | V9  | Graphen und Graphalgorythmen            |                                                                  |
 | V10  | Graphen und Graphalgorythmen II |                                                               |
@@ -16,7 +16,7 @@
 
 ### Unterrichtsmaterial auf Moodle
 
-* [Link auf die Moodle Plattform der FHNW](https://moodle.fhnw.ch/course/view.php?id=38779)
+* [Link auf die Moodle Plattform der FHNW](https://moodle.fhnw.ch/course/view.php?id=41483)
 
 ### Weiterführende Literatur 
 
