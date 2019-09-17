@@ -7,8 +7,8 @@
 | V3  | Wissenschaftliches Rechnen I I   |  [Code in K2](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
 | V4 | Wissenschaftliches Rechnen I I I                         |        [Code in K2](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
 | V5  | Wissenschaftliches Rechnen I V |  [Code in K3](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/wr2018/Kapitel_3_Funktionen.ipynb)                              |
-| V6  | Numerische Verfahren I               |  [Numerische Algorithmen (Oldenburg)](https://nbviewer.jupyter.org/github/mgje/Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)                                |
-| V7  | Numerische Verfahren II           |   [Optimierung](https://nbviewer.jupyter.org/github/mgje/Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                               |
+| V6  | Numerische Verfahren I               |  [Numerische Algorithmen (Oldenburg)](https://nbviewer.jupyter.org/github/mgje/PIUMP/Beispiele_Skript_SciComputing/Numerische%20Algorithmen.ipynb)                                |
+| V7  | Numerische Verfahren II           |   [Optimierung](https://nbviewer.jupyter.org/github/mgje/PIUMP/Beispiele_Skript_SciComputing/Optimierung.ipynb)                                                               |
 | V8  | Numerische Verfahren III         |                                                                  |
 | V9  | Graphen und Graphalgorythmen            |                                                                  |
 | V10  | Graphen und Graphalgorythmen II |                                                               |
