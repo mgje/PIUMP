@@ -27,14 +27,9 @@ def sub(z1,z2):
         a3 = a3 * -1
     return [int(a3),int(k)]
 
-def nz(a,b):  #kehrwert zur nächsten Zahl
-    k = b % a
-    z = a - k
-    z2 = int((b+z)//a)
-    return ([1,z2])
-
 def zerlegung(z):
     #print(z[0]/z[1])
+    
     if(z[0]==1):
         return(z)
       
@@ -46,10 +41,10 @@ def zerlegung(z):
     while (a-1)**2 > 0.01:
         if a == 0:
             break
-        z2 = nz(a,b)
-        l.append([z2[0],z2[1]])
+        z2 = b//a+1
+        l.append([1,z2])
         #print(l)
-        z = sub(z,z2)
+        z = sub(z,[1,z2])
         a = int(z[0])
         b = z[1]
         if b > 10e17: #Abbruch der Zerlegung bei 17 Stellen
@@ -63,9 +58,9 @@ def test(l):
         s = s + e[0]/e[1]
     return s
 
-
-
-print(zerlegung([59,120])) 
+print(zerlegung([10,73])) 
+#print(zerlegung([67,2012])) 
+#print(zerlegung([43538926,64129005])) 
    
         
            
