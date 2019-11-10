@@ -58,7 +58,7 @@ def test(l):
         s = s + e[0]/e[1]
     return s
 
-print(zerlegung([10,73])) 
+print(zerlegung([11,199])) 
 #print(zerlegung([67,2012])) 
 #print(zerlegung([43538926,64129005])) 
    
