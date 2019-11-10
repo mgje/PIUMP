@@ -54,4 +54,4 @@ Installationsanleitung für Ipython und Python Notebooks
 
 Try it now
 ==========
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP/python_in_der_wissenschaft)
