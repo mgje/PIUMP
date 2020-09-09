@@ -1,4 +1,4 @@
-## HS2018 Algorithmik und numerische Methoden
+## HS2020 Algorithmik und numerische Methoden
 
 | Veranstaltung        | Inhalt                           | Materialien, Links                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
