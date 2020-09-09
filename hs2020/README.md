@@ -2,7 +2,7 @@
 
 | Veranstaltung        | Inhalt                           | Materialien, Links                |
 | ------------- |----------------------------------| -------------------------------------------------------------------------|
-| V1  | Organisation, Werkzeuge  installieren | [YouTube JuPyter-Notebooks](https://www.youtube.com/watch?v=q_BzsPxwLOE)              |
+| V1  | Organisation, Werkzeuge  installieren |             |
 | V2  | Wissenschaftliches Rechnen I     |  [Code in K1](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/wr2018/Kapitel_1_Variablen_Ausdruecke.ipynb)                         |
 | V3  | Wissenschaftliches Rechnen I I   |  [Code in K2](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                           |
 | V4 | Wissenschaftliches Rechnen I I I                         |        [Code in K2](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/wr2018/Kapitel_2_Schleifen_Listen.ipynb)                        |
