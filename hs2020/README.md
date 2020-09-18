@@ -16,7 +16,7 @@
 
 ### Unterrichtsmaterial auf Moodle
 
-* [Link auf die Moodle Plattform der FHNW](https://moodle.fhnw.ch/course/view.php?id=41483)
+* [Link auf die Moodle Plattform der FHNW](https://moodle.fhnw.ch/)
 
 ### Weiterführende Literatur 
 
