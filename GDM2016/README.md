@@ -5,10 +5,6 @@
 - [Vortragsunterlagen](Ping_Pong.ipynb)
  als Jupyter notebook 
 
-- [Interaktive Vortragsunterlagen](http://mybinder.org/repo/mgje/PIUMP) direkt im Browser ausführbar
-	- Auf den Ordner GDM2016 klicken
-	- Auf Ping_Pong.ipynb klicken
-
 Interaktives Notizbuch
 ======================
 
