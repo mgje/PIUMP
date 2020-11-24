@@ -9,9 +9,11 @@
 	- Auf den Ordner GDM2016 klicken
 	- Auf Ping_Pong.ipynb klicken
 
-Interaktive Laborjournale
-=========================
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP)
+Interaktives Notizbuch
+======================
+
+Mit colab direkt im Browser starten - CAS2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/GDM216/)
+
 
 Rückmeldungen
 =============
