@@ -30,7 +30,7 @@ Weitere Materialien & e-books
 
 * [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
+* [https://github.com/ipython-books/cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ipython-books/cookbook-2nd-code/blob/master/)
 
 * [IPython Videos](http://ipython.org/videos.html)
 
