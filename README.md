@@ -13,7 +13,7 @@ Auf dieser Github-Seite finden Sie Kursunterlagen und Quellcode zu
 Interaktive Laborjournale
 =========================
 
-__[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
+* __[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
 * [Dynamische Systeme mit Python simulieren](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
