@@ -21,11 +21,11 @@ Weitere Materialien & e-books
 =============================
 * [Vorlesung (2014) SciPy - Library of scientific algorithms for Python, von J.R. Johansson, Hirosawa, Wako-shi, JAPAN ](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
 
-* [Programming with Python, G. Wilson](http://swcarpentry.github.io/python-novice-inflammation/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://swcarpentry.github.io/python-novice-inflammation/)
+* [Programming with Python, G. Wilson](http://swcarpentry.github.io/python-novice-inflammation/)
 
-* [Wakari.io Beispiele](https://www.wakari.io/gallery) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
+* [Wakari.io Beispiele](https://www.wakari.io/gallery) 
 
-* [Gallery of IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
+* [Gallery of IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 * [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
