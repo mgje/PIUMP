@@ -4,6 +4,7 @@ Python in der Wissenschaft
 __[Folien: Python in der Wissenschaft](http://mgje.github.io/presentations/scipython)__
 
 __[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
 
 Arbeiten mit interaktiven Notebooks
