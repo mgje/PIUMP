@@ -10,28 +10,28 @@ __[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/
 Arbeiten mit interaktiven Notebooks
 ===================================
 
-* [Dynamische Systeme mit Python simulieren](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
+* [Dynamische Systeme mit Python simulieren](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Modellierung%20dynamischer%20Systeme.ipynb)
 
-* [IPython Notebook zu Reaktion-Diffusion Simulationen](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
+* [IPython Notebook zu Reaktion-Diffusion Simulationen](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Reaktions-Diffusions-System.ipynb)
 
 * [IPython Notebook Schwarmsimulation](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
 
 Weitere Materialien & e-books 
 =============================
-* [Vorlesung (2014) SciPy - Library of scientific algorithms for Python, von J.R. Johansson, Hirosawa, Wako-shi, JAPAN ](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
+* [Vorlesung (2014) SciPy - Library of scientific algorithms for Python, von J.R. Johansson, Hirosawa, Wako-shi, JAPAN ](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [Programming with Python, G. Wilson](http://swcarpentry.github.io/python-novice-inflammation/)
+* [Programming with Python, G. Wilson](http://swcarpentry.github.io/python-novice-inflammation/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [Wakari.io Beispiele](https://www.wakari.io/gallery) 
+* [Wakari.io Beispiele](https://www.wakari.io/gallery) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [Gallery of IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [Gallery of IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+* [https://github.com/joelgrus/data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)
+* [http://ipython-books.github.io/minibook/](http://ipython-books.github.io/minibook/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
-* [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)
+* [http://ipython-books.github.io/cookbook/](http://ipython-books.github.io/cookbook/)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
 * [IPython Videos](http://ipython.org/videos.html)
 
@@ -53,6 +53,3 @@ Installationsanleitung für Ipython und Python Notebooks
 =======================================================
 - Einfacher Weg: Mit dem Paketmanager Anaconda installieren. [Link](http://docs.continuum.io/anaconda/install)
 
-Try it now
-==========
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mgje/PIUMP/python_in_der_wissenschaft)
