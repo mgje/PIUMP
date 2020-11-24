@@ -12,7 +12,7 @@
 Interaktives Notizbuch
 ======================
 
-Mit colab direkt im Browser starten - CAS2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/GDM216/)
+Direkt im Browser starten [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/GDM2016/)
 
 
 Rückmeldungen
