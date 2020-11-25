@@ -23,13 +23,8 @@ Interaktive Laborjournale
 * [IPython Notebook Schwarmsimulation](http://nbviewer.ipython.org/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/Python-Mathematik-Beispiele/blob/master/Python-Notebooks/Schwarm.ipynb)
 
-* [3D Beispiel](http://nbviewer.ipython.org/github/QuantStack/ipygany/blob/master/examples/ipygany.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/QuantStack/ipygany/blob/master/examples/ipygany.ipynb)
-
-
-
-
-
+* [Introduction to Python](http://nbviewer.ipython.org/github/sul-cidr/Workshops/blob/master/Introduction_to_Python/Introduction%20to%20Python.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sul-cidr/Workshops/blob/master/Introduction_to_Python/Introduction%20to%20Python.ipynb)
 
 TigerJython
 ===========
