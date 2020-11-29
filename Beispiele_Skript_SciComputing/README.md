@@ -12,6 +12,9 @@
 
 2. __direkt in der Cloud:__ Sie könne alle hier vorgestellten [Beispiele](https://github.com/mgje/PIUMP/archive/master) als ZIP-Datei herunter laden. Die einzelnen .ipynb Dateien können mit der upload Funktion direkt in die [Jupyter-Cloud](https://try.jupyter.org/) (ohne Registrierung) importiert werden. 
 
+3. __mit Google colab:__  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/Beispiele_Skript_SciComputing/)
+
+
 ## Materialien zu spezifischen Themen
 
 - __Die Suche nach einem optimalen Standort mit Hilfe des Weiszfeld Algorithmus__ 
