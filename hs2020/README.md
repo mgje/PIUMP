@@ -12,7 +12,7 @@
 | V8  | Numerische Verfahren III         |                                                                  |
 | V9  | Graphen und Graphalgorythmen            |                                                                  |
 | V10  | Graphen und Graphalgorythmen II |                                                               |
-| V11  | Monte-Carlo Methode |                                                               |
+| V11  | Jupyter-Notebook & Monte-Carlo Methode |                                                               |
 
 ### Unterrichtsmaterial auf Moodle
 
