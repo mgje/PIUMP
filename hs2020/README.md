@@ -12,8 +12,7 @@
 | V8  | Numerische Verfahren III         |                                                                  |
 | V9  | Graphen und Graphalgorythmen            |                                                                  |
 | V10  | Graphen und Graphalgorythmen II |                                                               |
-| V11  | Jupyter-Notebook & Monte-Carlo Methode |     [Jupyter-Notebook & Monte-Carlo Methode](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/hs2020/Jupyter_Notebooks_im_Unterricht.ipynb)          <a  href=\"https://colab.research.google.com/github/mgje/PIUMP/blob/master/hs2020/Jupyter_Notebooks_im_Unterricht.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-      ]                                                |
+| V11  | Jupyter-Notebook & Monte-Carlo Methode |     [Jupyter-Notebook & Monte-Carlo Methode](https://nbviewer.jupyter.org/github/mgje/PIUMP/blob/master/hs2020/Jupyter_Notebooks_im_Unterricht.ipynb) [![Start in CoLab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/hs2020/Jupyter_Notebooks_im_Unterricht.ipynb)                                              |
 
 ### Unterrichtsmaterial auf Moodle
 
