@@ -19,6 +19,9 @@ Sie erhalten dann eine interaktives Notizbuch (notebook), wo Sie Zellen um Zelle
 
 ### weitere CoLab-Notebooks 
 
+* __[Mathematisches Experimentieren mit „ipython notebook“, Vortrag GDM 2016, Heidelberg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/GDM2016/Ping_Pong.ipynb)__
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/GDM2016/Ping_Pong.ipynb)
+
 * __[SciPy_Beispiele.ipynb (IPython Notebook)](https://github.com/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)__
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mgje/PIUMP/blob/master/python_in_der_wissenschaft/SciPy_Beispiele.ipynb)
 
